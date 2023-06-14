@@ -14,3 +14,4 @@ There are some video files that accompany the slides from Part 1 to Part 3.  The
 - Part 3B: Transmission line and signal propagation II
 - Part 4: PCB layout rules for signal integrity
 - Part 5: Basic differential signalling
+- Part 6: Signal integrity trouble-shooting and measurements 
